@@ -1,6 +1,7 @@
 ---
 layout: links.njk
-permalink: /{{ site.socialHandle }}/index.html
+# permalink: /{{ site.socialHandle }}/index.html
+permalink: false
 
 # Identity elements
 title: "@evolve.the.world"
