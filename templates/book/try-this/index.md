@@ -4,7 +4,7 @@ title: About the Exercises
 eleventyNavigation:
   key: About the Exercises
   parent: try
-  order: 100
+  order: 24
 tags: book
 navKey: book
 ---
@@ -18,11 +18,14 @@ where all of that lives.
 
 ## Ch 1. Two Worlds, One Future
 
-  - 1.1 Recorded version of Crossing the Threshold
+  - [1.1 Recorded version of Crossing the Threshold](/projects/try-this/11-crossing-the-threshold/)
 
 ## Ch 2. Personal Universe
 
-  - 2.1 Play Crystal Connections
+	- 2.1 The Room (no additional materials)
+	- 2.2 Hedge Your Knowing (no additional materials)
+	- 2.3 Star-Rating Your Universe (no additional materials)
+  - [2.4 Play Crystal Connections](/projects/try-this/24-crystal-connections/)
   - 2.2 Other Ways to Strengthen Your Personal Universe
   - 2.3 Guarded Mind
 

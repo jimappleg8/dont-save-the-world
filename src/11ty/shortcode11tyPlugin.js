@@ -39,7 +39,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPairedShortcode("divClass", function(content, classes) {
     return `
     <div class="${classes}">
-      ${text}
+      ${content}
     </div>
     `;
   });
