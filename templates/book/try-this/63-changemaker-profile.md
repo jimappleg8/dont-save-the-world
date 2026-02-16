@@ -4,7 +4,7 @@ title: Changemaker Profile
 eleventyNavigation:
   key: Changemaker Profile
   parent: try
-  order: 120
+  order: 63
 tags: book
 navKey: book
 ---
