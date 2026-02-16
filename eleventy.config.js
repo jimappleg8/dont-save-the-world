@@ -19,6 +19,8 @@ export default async function (eleventyConfig) {
   // Copy everything from the templates/_public/ folder to the output folder
   eleventyConfig.addPassthroughCopy({ "templates/_public": "/" });
 
+  eleventyConfig.addPassthroughCopy({ "_redirects": "/" });
+
   // Copy in the PrismJS theme we use for syntax highlighting
   eleventyConfig.addPassthroughCopy({ 
     "node_modules/prismjs/themes/prism-okaidia.min.css": "/assets/styles/prism-okaidia.min.css" 
