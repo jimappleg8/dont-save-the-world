@@ -4,7 +4,7 @@ title: First Contribution
 eleventyNavigation:
   key: First Contribution
   parent: try
-  order: 110
+  order: 32
 tags: book
 navKey: book
 ---
