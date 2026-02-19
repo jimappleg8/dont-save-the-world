@@ -22,10 +22,10 @@ where all of that lives.
 
 ## Ch 2. Personal Universe
 
-	- 2.1 The Room (no additional materials)
-	- 2.2 Hedge Your Knowing (no additional materials)
-	- 2.3 Star-Rating Your Universe (no additional materials)
-  - [2.4 Play Crystal Connections](/projects/try-this/24-crystal-connections/)
+  - 2.1 The Room (no additional materials)
+  - 2.2 Hedge Your Knowing (no additional materials)
+  - 2.3 Star-Rating Your Universe (no additional materials)
+  - [2.4 Play Crystal Connections](/book/try-this/24-crystal-connections/)
   - 2.5 Practice "Curiosity Capture" (no additional materials)
   - 2.6 Other Ways to Strengthen Your Personal Universe (not in book)
   - 2.7 Guarded Mind (not in book)
